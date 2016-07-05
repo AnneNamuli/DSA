@@ -1,0 +1,70 @@
+Hello,
+
+Welcome to Data Science Africa 2016.
+
+We will be using the ipython notebook
+
+
+
+===Step 1: Installation===
+First we need to get this installed. I recommend you install the
+anaconda distribution, this contains everything you'll need. It is
+available for windows, linux and apple. We'll be using the python 3.4
+version.
+
+I've included anaconda for windows and for linux on this memory stick.
+You can also download it from:
+
+http://continuum.io/downloads
+
+It's quite big. 
+
+The installation should be quite straightforward.
+
+Copy the install file to your computer, then:
+
+In windows just run the Anaconda installer exe. 
+
+In linux, in your terminal window type something like:
+bash ~/Downloads/Anaconda3-4.0.0-Linux-x86_64.sh
+
+(depending on where you installed it).
+
+You'll need to close the terminal once you're done.
+
+
+
+
+
+
+
+===Step 2:Trying it out===
+Once it's all installed, you need to start Jupyter (also called an
+ipython notebook).
+
+In windows you should be able to find a launcher for IPython Notebook
+under Anaconda in the Start Menu.
+
+In linux or OS X, open a terminal window, then type:
+    ipython notebook
+    
+It might be best to do this in the directory where you installed 
+Classification.ipynb.
+
+A browser window should pop up with the notebook inside (you might have
+to click on a link in the terminal if that doesn't happen).
+
+Create a new notebook by (at the top right of the screen) clicking on
+New, then on Python 3. This should create a new notebook
+
+In the box, by "In []:", try typing:
+
+print("Hello World")
+
+Then press Shift-enter. This will run it (you can also press the little
+> arrow in the toolbar).
+
+You should be able to open the ipython notebook (called Classification)
+if it's in the directory where you ran the ipython.
+
+We'll be moving about the workshop, so ask us for help, if you get stuck.
